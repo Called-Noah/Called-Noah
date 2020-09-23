@@ -19,6 +19,7 @@
 <table>
   
 <tr><td>python</td></tr> 
+<tr><td>java</td></tr> 
 <tr><td>Quantum Algorithm</td></tr> 
 <tr><td>MachineLearning Algorithm</td></tr> 
 <tr><td>qiskit translator</td></tr>
