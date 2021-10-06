@@ -7,7 +7,7 @@
     - 🔭 IBM C:LOUDERs June,19th 2020 ~ 
     - 🌱 Qiskit Korean Translator
     - 📫 My blog: https://comingtoyourlive.blogspot.com/
-    - :student: My Portfolio: comingtoyourlive.com
+    - 🧑‍🎓 My Portfolio: comingtoyourlive.com
     - 📞 Contact info: comingtoyouliv2@gmail.com
     
 
