@@ -6,7 +6,8 @@
     - ⭐ Goal: A.I Machine Learning, Quantum Machine Learning Specialist
     - 🔭 IBM C:LOUDERs June,19th 2020 ~ 
     - 🌱 Qiskit Korean Translator
-    - 📫 My blog: https://hadamardgate.blogspot.com/
+    - 📫 My blog: https://comingtoyourlive.blogspot.com/
+    - :student: My Portfolio: comingtoyourlive.com
     - 📞 Contact info: comingtoyouliv2@gmail.com
     
 
